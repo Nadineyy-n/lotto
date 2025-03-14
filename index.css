@@ -7,6 +7,10 @@ div{
   border-radius: 50px;
 }
 
+#cc{
+  color: red;
+}
+
 #nums{
   margin-top: 90px;
   width: 250px;
